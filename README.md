@@ -1,6 +1,6 @@
-# 🚀 Docker Python Deep Learning
+# 🚀 Docker Python AI
 
-Docker container pour **Deep Learning en Python**, incluant la plupart des bibliothèques nécessaires : TensorFlow, PyTorch, Keras, MXNet, Scikit-Learn, Pandas, Jupyter Notebook, et bien d’autres.
+Docker container pour **Deep/Machine Learning en Python**, incluant la plupart des bibliothèques nécessaires : TensorFlow, PyTorch, Keras, MXNet, Scikit-Learn, Pandas, Jupyter Notebook, et bien d’autres.
 
 ---
 
