@@ -91,7 +91,8 @@ ENV BUILD_PACKAGES="\
         torchvision \
         torchaudio \
         mxnet-mkl \
-        yfinance" \
+        yfinance \
+        tqdm" \
         PYTHON_VER=3.13.7 \
         JUPYTER_CONFIG_DIR=/home/.ipython/profile_default/startup \
         LANG=C.UTF-8

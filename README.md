@@ -72,6 +72,7 @@ Cela permettra à TensorFlow, PyTorch, et MXNet de détecter et utiliser ton GPU
 ## ⚡ Tips
 
 * Pour personnaliser la liste des bibliothèques installées, modifie `PIP_PACKAGES` dans le Dockerfile.
+* Augmenter la Ram allouée dans /dev/shm (64Mo par défaut) : ajouter --shm-size=2g dans le docker run
 
 ---
 
